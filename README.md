@@ -1,3 +1,3 @@
 # odin-recipes
 
-This project is an index page with recipes. I will be coming back later to add CSS and things.
+This project is the Odin recipes page. By the end of this project I will have demonstrated that I am familiar with HTML and it's use in web page development.
